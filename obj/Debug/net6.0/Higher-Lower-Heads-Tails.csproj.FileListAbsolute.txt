@@ -1,0 +1,15 @@
+C:\Users\USER\OneDrive\Documents\Coding Projects\Higher-Lower-Heads-Tails\bin\Debug\net6.0\Higher-Lower-Heads-Tails.exe
+C:\Users\USER\OneDrive\Documents\Coding Projects\Higher-Lower-Heads-Tails\bin\Debug\net6.0\Higher-Lower-Heads-Tails.deps.json
+C:\Users\USER\OneDrive\Documents\Coding Projects\Higher-Lower-Heads-Tails\bin\Debug\net6.0\Higher-Lower-Heads-Tails.runtimeconfig.json
+C:\Users\USER\OneDrive\Documents\Coding Projects\Higher-Lower-Heads-Tails\bin\Debug\net6.0\Higher-Lower-Heads-Tails.dll
+C:\Users\USER\OneDrive\Documents\Coding Projects\Higher-Lower-Heads-Tails\bin\Debug\net6.0\ref\Higher-Lower-Heads-Tails.dll
+C:\Users\USER\OneDrive\Documents\Coding Projects\Higher-Lower-Heads-Tails\bin\Debug\net6.0\Higher-Lower-Heads-Tails.pdb
+C:\Users\USER\OneDrive\Documents\Coding Projects\Higher-Lower-Heads-Tails\obj\Debug\net6.0\Higher-Lower-Heads-Tails.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Documents\Coding Projects\Higher-Lower-Heads-Tails\obj\Debug\net6.0\Higher-Lower-Heads-Tails.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Documents\Coding Projects\Higher-Lower-Heads-Tails\obj\Debug\net6.0\Higher-Lower-Heads-Tails.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Documents\Coding Projects\Higher-Lower-Heads-Tails\obj\Debug\net6.0\Higher-Lower-Heads-Tails.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Documents\Coding Projects\Higher-Lower-Heads-Tails\obj\Debug\net6.0\Higher-Lower-Heads-Tails.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Documents\Coding Projects\Higher-Lower-Heads-Tails\obj\Debug\net6.0\Higher-Lower-Heads-Tails.dll
+C:\Users\USER\OneDrive\Documents\Coding Projects\Higher-Lower-Heads-Tails\obj\Debug\net6.0\ref\Higher-Lower-Heads-Tails.dll
+C:\Users\USER\OneDrive\Documents\Coding Projects\Higher-Lower-Heads-Tails\obj\Debug\net6.0\Higher-Lower-Heads-Tails.pdb
+C:\Users\USER\OneDrive\Documents\Coding Projects\Higher-Lower-Heads-Tails\obj\Debug\net6.0\Higher-Lower-Heads-Tails.genruntimeconfig.cache
